@@ -44,7 +44,7 @@ int readDataFile( string& fileName, string pilotName[MAX_PILOTS], double coordin
             int coordinateIndexCount = 0;
             while((extract>>x>>comma>>y) && coordinateIndexCount < MAX_COORDINATES){
                 //store the x value
-                coordinate[MAX_]
+                coordinate[MA
             }
         }
         
